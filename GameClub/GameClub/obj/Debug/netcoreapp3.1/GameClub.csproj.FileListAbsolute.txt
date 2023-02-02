@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.exe
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.deps.json
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.runtimeconfig.json
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.runtimeconfig.dev.json
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.dll
+C:\Users\USER\source\repos\GameClub\GameClub\bin\Debug\netcoreapp3.1\GameClub.pdb
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.AssemblyInfo.cs
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.dll
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.pdb
+C:\Users\USER\source\repos\GameClub\GameClub\obj\Debug\netcoreapp3.1\GameClub.genruntimeconfig.cache
